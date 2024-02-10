@@ -1,0 +1,17 @@
+.error {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgba(192, 68, 60, 0.349);
+  color: brown;
+  font-weight: 800;
+  font-size: xx-large;
+  transition: 2s all ease-out;
+}
+.error:hover {
+  background-color: brown;
+  color: rgba(78, 28, 24, 0.678);
+}
